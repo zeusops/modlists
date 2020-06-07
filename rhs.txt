@@ -1,0 +1,7 @@
+@ace_compat_rhsafrf 773131200
+@ace_compat_rhsgref 884966711
+@ace_compat_rhsusaf 773125288
+@rhsafrf 843425103
+@rhsgref 843593391
+@rhspkl 1978754337
+@rhsusaf 843577117
