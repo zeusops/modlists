@@ -12,6 +12,7 @@
 @ace_menu_expansion 1376867375
 @ace-morphine-patch 1960207062
 @achilles 723217262
+@advanced_sling_loading 615007497
 @adv_rappel 713709341
 @aircraft_bounce 1770265310
 @alive 620260972
@@ -45,14 +46,14 @@
 @fallujah 633789490
 @goko_ballistic_impact 1273833677
 @goko_mag_drop 1373715042
-@gos_ai_rayak 648172507
+@gos_al_rayak 648172507
 @gos_dariyah 701535490
 @grad_trenches 1224892496
 @hamf_helicopters 909320014
 @hmds_mod 312724602
+@ifa3_ace_compat 773759919
 @ifa3_aio_lite 660460283
 @ifa3_lite 878977835
-@ifa3_ace_compat 773759919
 @interiors_for_cup 1883956552
 @isla_abramia 648775794
 @isla_duala 714149065
@@ -122,6 +123,7 @@
 @walkable_moving_objects 925018569
 @weapon_holster 1562915006
 @werthles_hc 510031102
+@zeus_enhanced 1779063631
 @zeusops 754228277
 @zeusops_jointop 1312400601
 @zeusops_lite 1123867761
