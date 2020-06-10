@@ -14,7 +14,6 @@
 @ch_view_distance 837729515
 @cup_terrains_core 583496184
 @cup_terrains_maps 583544987
-@cz_bren 1657263444
 @earplugs 914182380
 @em_buildings 671539540
 @enhanced_movement 333310405
