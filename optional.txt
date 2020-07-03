@@ -12,6 +12,7 @@
 @jsrs_usaf 1180533757
 @mrb_air_visibility 929396506
 @mrb_vehicle_visibility 930903722
+@realistic_autopilot 1439605692
 @rested_weapon_movement 1311852588
 @rhs_hmds 877530153
 @tfar_animations 1480333388
