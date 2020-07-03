@@ -2,6 +2,7 @@
 @armazeuscache 1908099028
 @automatic_view_distance 1544955993
 @c2_ai_tool 491016790
+@dynasound 825181638
 @earplugs 914182380
 @enhanced_soundscape 825179978
 @hmds_mod 312724602
@@ -15,5 +16,6 @@
 @realistic_autopilot 1439605692
 @rested_weapon_movement 1311852588
 @rhs_hmds 877530153
+@simple_maptools 2013446344
 @tfar_animations 1480333388
 @zeus_search_patch 1557429895
