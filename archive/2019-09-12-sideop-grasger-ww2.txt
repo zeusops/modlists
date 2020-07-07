@@ -4,6 +4,6 @@
 @cup_terrains_core 583496184
 @enhanced_movement 333310405
 @ifa3_aio_lite 660460283
-@tfar_animations 1480333388
+@radio_animations_tfar 1480333388
 @tfarbeta 894678801
 @vet_unflipping 1703187116

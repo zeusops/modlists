@@ -89,6 +89,7 @@
 @prone_launcher 1841047025
 @prone_launcher_res 1883363219
 @pulau 1423583812
+@radio_animations_tfar 1480333388
 @ravage 1376636636
 @reddntank 1128145626
 @rested_weapon_movement 1311852588
@@ -111,7 +112,6 @@
 @survivable_crashes 1260652016
 @task_force_radio 620019431
 @tembelan_island 1252091296
-@tfar_animations 1480333388
 @tfarbeta 894678801
 @thirsk_resigned 1558470634
 #@unsung 943001311
