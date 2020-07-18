@@ -125,7 +125,7 @@
 @weapon_holster 1562915006
 @werthles_hc 510031102
 @zeus_enhanced 1779063631
-@zeusops 754228277
+@zeusops 2168912301
 @zeusops_jointop 1312400601
 @zeusops_lite 1123867761
 @zeus_search_patch 1557429895
