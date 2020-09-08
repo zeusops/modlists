@@ -7,6 +7,7 @@
 @ace 463939057
 @ace_compat_rhsafrf 773131200
 @ace_compat_rhsgref 884966711
+@ace_compat_rhssaf 2174495332
 @ace_compat_rhsusaf 773125288
 @ace_cpr 1104460924
 @ace_menu_expansion 1376867375
@@ -126,6 +127,7 @@
 @weapon_holster 1562915006
 @werthles_hc 510031102
 @zeus_enhanced 1779063631
+@zeus_enhanced_ace_compat 2018593688
 @zeusops 2168912301
 @zeusops_jointop 1312400601
 @zeusops_lite 1123867761
