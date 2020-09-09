@@ -16,6 +16,7 @@
 @advanced_sling_loading 615007497
 @adv_rappel 713709341
 @aircraft_bounce 1770265310
+@align 903134884
 @alive 620260972
 @anizay 1537973181
 @armaretex 1180292686
@@ -44,7 +45,9 @@
 @ericj_taliban 668919514
 @esseker 498101407
 @extended_jamming 1379304937
+@faces_of_war 891433622
 @fallujah 633789490
+@flying_legends 2012417505
 @goko_ballistic_impact 1273833677
 @goko_mag_drop 1373715042
 @gos_al_rayak 648172507
@@ -54,6 +57,7 @@
 @hmds_mod 312724602
 @ifa3_ace_compat 773759919
 @ifa3_aio_lite 660460283
+@ifa3_liberation 950999958
 @ifa3_lite 878977835
 @interiors_for_cup 1883956552
 @isla_abramia 648775794
@@ -71,6 +75,7 @@
 @lingor 718649903
 @lythium 909547724
 @madrigal 1175080487
+@magazine_simulation 1373715042
 @mbg_buildings 962932583
 @mrb_air_visibility 929396506
 @mrb_vehicle_visibility 930903722
@@ -101,6 +106,7 @@
 @rhsusaf 843577117
 @rksl_attachments 1661066023
 @rosche 1527410521
+@rr_immersive_maps_by_laxemann 2222778153
 @ruegen 835257174
 @ruha 1368857262
 @ryanzombies 501966277
@@ -109,6 +115,7 @@
 @soviet_armed_forces 716518271
 @spyder_addons 579263829
 @stui 498740884
+@suppress 825174634
 @survivable_crashes 1260652016
 @task_force_radio 620019431
 @tembelan_island 1252091296
@@ -117,6 +124,7 @@
 @there_is_only_war_wh40k 1160452826
 @thirsk_resigned 1558470634
 #@unsung 943001311
+@us_general_equipment_and_accessories 1496363537
 @vcom 721359761
 @vet_unflipping 1703187116
 #@vidda 1282716647
@@ -126,6 +134,7 @@
 @weapon_eh_framework 1157866464
 @weapon_holster 1562915006
 @werthles_hc 510031102
+@ww2_unit_voice-overs 2066111722
 @zeus_enhanced 1779063631
 @zeus_enhanced_ace_compat 2018593688
 @zeusops 2168912301
@@ -133,4 +142,5 @@
 @zeusops_lite 1123867761
 @zeusops_test 2180690667
 @zeus_search_patch 1557429895
+@zops_ww2 2223637824
 @zops_zombies 1906849902
