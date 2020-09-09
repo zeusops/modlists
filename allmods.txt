@@ -19,13 +19,16 @@
 @align 903134884
 @alive 620260972
 @anizay 1537973181
+@arma_commander 1590156730
 @armaretex 1180292686
 @armazeuscache 1908099028
 @art_warlords 1638263382
 @asr_ai3 642457233
 @athena 1181881736
+@automatic_view_distance 1544955993
 @backpackonchest 820924072
 @boxloader 1199318917
+@c2_ai_tool 491016790
 @cartridge_cases 1198749494
 @cba_a3 450814997
 @chernarus_redux 1128256978
@@ -38,6 +41,7 @@
 @cup_weapons 497660133
 @cz_bren 1657263444
 @dhi_uniforms_equipment 1573550621
+@dynasound 825181638
 @earplugs 914182380
 @em_buildings 671539540
 @enhanced_movement 333310405
@@ -96,6 +100,7 @@
 @pulau 1423583812
 @radio_animations_tfar 1480333388
 @ravage 1376636636
+@realistic_autopilot 1439605692
 @reddntank 1128145626
 @rested_weapon_movement 1311852588
 @rhsafrf 843425103
@@ -111,6 +116,7 @@
 @ruha 1368857262
 @ryanzombies 501966277
 @ryanzombies_ace 1606871585
+@simple_maptools 2013446344
 @slaughter_assets 448333775
 @soviet_armed_forces 716518271
 @spyder_addons 579263829
