@@ -27,6 +27,7 @@
 @athena 1181881736
 @automatic_view_distance 1544955993
 @backpackonchest 820924072
+@booby_traps 1988433104
 @boxloader 1199318917
 @c2_ai_tool 491016790
 @cartridge_cases 1198749494
@@ -119,6 +120,7 @@
 @simple_maptools 2013446344
 @slaughter_assets 448333775
 @soviet_armed_forces 716518271
+@spectrum_device 2224534021
 @spyder_addons 579263829
 @stui 498740884
 @suppress 825174634

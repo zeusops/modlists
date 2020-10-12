@@ -9,6 +9,7 @@
 @advanced_sling_loading 615007497
 @aircraft_bounce 1770265310
 @backpackonchest 820924072
+@booby_traps 1988433104
 @boxloader 1199318917
 @cba_a3 450814997
 @ch_view_distance 837729515
@@ -20,7 +21,6 @@
 @jbad 520618345
 @lambs_danger 1858075458
 @lingor 718649903
-@mull_of_kintyre 1982652717
 @niarms 1208517358
 @project_blufor 1638480581
 @prone_launcher_res 1883363219
@@ -29,6 +29,7 @@
 @rhssaf 843632231
 @rhsusaf 843577117
 @rksl_attachments 1661066023
+@spectrum_device 2224534021
 @tfar_animations 2141020863
 @tfarbeta 894678801
 @vet_unflipping 1703187116
