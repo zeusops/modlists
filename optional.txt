@@ -1,4 +1,3 @@
-@ace_menu_expansion 1376867375
 @armazeuscache 1908099028
 @automatic_view_distance 1544955993
 @c2_ai_tool 491016790
@@ -6,6 +5,7 @@
 @dynasound 825181638
 @earplugs 914182380
 @enhanced_soundscape 825179978
+gace_menu_expansion 1376867375
 @hmds_mod 312724602
 @jsrs_afrf 945476727
 @jsrs_gref 1180534892
@@ -14,8 +14,10 @@
 @jsrs_usaf 1180533757
 @mrb_air_visibility 929396506
 @mrb_vehicle_visibility 930903722
+@no_grass 1482600949
 @realistic_autopilot 1439605692
 @rested_weapon_movement 1311852588
 @rhs_hmds 877530153
 @simple_maptools 2013446344
+@vilehud 1538673636
 @zeus_search_patch 1557429895
