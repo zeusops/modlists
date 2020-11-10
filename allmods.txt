@@ -43,6 +43,7 @@
 @cup_weapons 497660133
 @cz_bren 1657263444
 @dhi_uniforms_equipment 1573550621
+@dui 1638341685
 @dynasound 825181638
 @earplugs 914182380
 @em_buildings 671539540
