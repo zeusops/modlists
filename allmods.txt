@@ -19,6 +19,7 @@
 @align 903134884
 @alive 620260972
 @anizay 1537973181
+@apricots_nvg_vfx 1908374667
 @arma_commander 1590156730
 @armaretex 1180292686
 @armazeuscache 1908099028
@@ -86,6 +87,7 @@
 @mrb_vehicle_visibility 930903722
 @mrb_voicestop 876991445
 @mull_of_kintyre 1982652717
+@napf 1425442364
 @new_york_city 696414736
 @niarms 1208517358
 #@operation_trebuchet 769440155
