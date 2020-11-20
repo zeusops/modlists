@@ -55,8 +55,10 @@
 @ericj_taliban 668919514
 @esseker 498101407
 @extended_jamming 1379304937
+@fa18_super_hornet 1552807725
 @faces_of_war 891433622
 @fallujah 633789490
+@fir_aws 366425329
 @flying_legends 2012417505
 @goko_ballistic_impact 1273833677
 @goko_mag_drop 1373715042
@@ -104,7 +106,8 @@
 @niarms 1208517358
 @no_weapon_sway 570118882
 @operation_trebuchet 769440155
-#@operation_trebuchet_ace_compat 1267657613
+@operation_trebuchet_ace_compat 1267657613
+@operation_trebuchet_first_contact 1572627279
 #@optre 769440155
 @overthrow 774201744
 @project_blufor 1638480581
@@ -139,6 +142,7 @@
 @soviet_armed_forces 716518271
 @spectrum_device 2224534021
 @spyder_addons 579263829
+@sst_opposition 1800899085
 @stui 498740884
 @suppress 825174634
 @survivable_crashes 1260652016
