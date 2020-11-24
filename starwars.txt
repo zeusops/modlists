@@ -13,9 +13,11 @@
 @cup_terrains_core 583496184
 @cup_terrains_maps 583544987
 @enhanced_movement 333310405
+@fallujah 633789490
 @grad_trenches 1224892496
 @interiors_for_cup 1883956552
 @jbad 520618345
+@jlts_conquest 2197549202
 @jlts_the_great_war 1940589429
 @lambs_danger 1858075458
 @legion_armory 1660210110

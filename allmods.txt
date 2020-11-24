@@ -77,6 +77,7 @@
 @isla_duala 714149065
 @island_panthera 708278910
 @jbad 520618345
+@jlts_conquest 2197549202
 @jlts_the_great_war 1940589429
 @jsrs_afrf 945476727
 @jsrs_gref 1180534892
