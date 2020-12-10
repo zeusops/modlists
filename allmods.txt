@@ -111,6 +111,7 @@
 @operation_trebuchet_first_contact 1572627279
 #@optre 769440155
 @overthrow 774201744
+@panoramic_night_vision 313041182
 @project_blufor 1638480581
 @project_infinite 807038742
 @project_infinite_inspect 812441729
@@ -160,6 +161,7 @@
 #@vidda 1282716647
 @vinjesvingen 1757672655
 @virolahti_vt7 1926513010
+@vis 1120714022
 @walkable_moving_objects 925018569
 @weapon_eh_framework 1157866464
 @weapon_holster 1562915006
