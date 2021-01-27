@@ -46,6 +46,7 @@
 @cup_weapons 497660133
 @cz_bren 1657263444
 @death_zone 1912836763
+#@death_zone_keys 2366459736
 @dhi_uniforms_equipment 1573550621
 @dui 1638341685
 @dynasound 825181638
