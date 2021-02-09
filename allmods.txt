@@ -39,6 +39,8 @@
 @chernarus_redux 1128256978
 @ch_view_distance 837729515
 #@clafghan 761349672
+@csa38_mod_czechoslovak_army_1938 641305739
+@csa38_mod_marenice 1526918410
 @cup_terrains_core 583496184
 #@cup_terrains_cwa 853743366
 @cup_terrains_maps 583544987
@@ -107,6 +109,7 @@
 @napf 1425442364
 @new_york_city 696414736
 @niarms 1208517358
+@northern_fronts_terrains 1630816076
 @no_weapon_sway 570118882
 @operation_trebuchet 769440155
 @operation_trebuchet_ace_compat 1267657613
@@ -141,6 +144,7 @@
 @ruha 1368857262
 @ryanzombies 501966277
 @ryanzombies_ace 1606871585
+@secret_weapons 756352410
 @simple_maptools 2013446344
 @slaughter_assets 448333775
 @soviet_armed_forces 716518271
@@ -178,5 +182,6 @@
 @zeusops_test 2180690667
 @zeus_search_patch 1557429895
 @zops_ww2 2223637824
+@zops_ww2_v2 2374862438
 @zops_zombies 1906849902
 @zops_zvp_caboose 2272718445
