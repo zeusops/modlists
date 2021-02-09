@@ -31,8 +31,10 @@
 @automatic_view_distance 1544955993
 @backpackonchest 820924072
 @bettir 2260572637
+@blastcore_standalone 767380317
 @booby_traps 1988433104
 @boxloader 1199318917
+@brush_clearing 1889104923
 @c2_ai_tool 491016790
 @cartridge_cases 1198749494
 @cba_a3 450814997
@@ -63,7 +65,11 @@
 @faces_of_war 891433622
 @fallujah 633789490
 @fir_aws 366425329
+@flag_interact 1937443167
 @flying_legends 2012417505
+@freestyles_crash_landing 2231150238
+gace_menu_expansion 1376867375
+gapricots_nvg_vfx 1908374667
 @goko_ballistic_impact 1273833677
 @goko_mag_drop 1373715042
 @gos_al_rayak 648172507
@@ -97,6 +103,7 @@
 @legion_studios_no_nvg 2224207686
 @legion_zd 1692301442
 @lingor 718649903
+@lowgrass 1165460123
 @lythium 909547724
 @madrigal 1175080487
 @magazine_simulation 1373715042
@@ -109,6 +116,7 @@
 @napf 1425442364
 @new_york_city 696414736
 @niarms 1208517358
+@no_grass 1482600949
 @northern_fronts_terrains 1630816076
 @no_weapon_sway 570118882
 @operation_trebuchet 769440155
@@ -163,9 +171,11 @@
 @thirsk_resigned 1558470634
 #@unsung 943001311
 @us_general_equipment_and_accessories 1496363537
+@vanilla_smoke_blastcore 853303947
 @vcom 721359761
 @vet_unflipping 1703187116
 #@vidda 1282716647
+@vilehud 1538673636
 @vinjesvingen 1757672655
 @virolahti_vt7 1926513010
 @vis 1120714022
