@@ -75,6 +75,7 @@ gapricots_nvg_vfx 1908374667
 @gos_al_rayak 648172507
 @gos_dariyah 701535490
 @grad_trenches 1224892496
+@grenades_in_tank_hatches 2398240266
 @hamf_helicopters 909320014
 @hmds_mod 312724602
 @ifa3_ace_compat 773759919
