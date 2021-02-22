@@ -15,6 +15,7 @@
 @ace_menu_expansion 1376867375
 @ace-morphine-patch 1960207062
 @achilles 723217262
+@advanced_developer_tools 2369477168
 @advanced_sling_loading 615007497
 @adv_rappel 713709341
 @aircraft_bounce 1770265310
