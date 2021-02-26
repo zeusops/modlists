@@ -39,6 +39,7 @@
 @c2_ai_tool 491016790
 @cartridge_cases 1198749494
 @cba_a3 450814997
+@cbrn_defense_unit 2270576186
 @chernarus_redux 1128256978
 @ch_view_distance 837729515
 #@clafghan 761349672
