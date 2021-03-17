@@ -122,6 +122,8 @@
 @no_grass 1482600949
 @northern_fronts_terrains 1630816076
 @no_weapon_sway 570118882
+@operation_blockhead 854964321
+@operation_blockhead_expanded 862243337
 @operation_trebuchet 769440155
 @operation_trebuchet_ace_compat 1267657613
 @operation_trebuchet_first_contact 1572627279
