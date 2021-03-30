@@ -76,6 +76,8 @@
 @gos_dariyah 701535490
 @grad_trenches 1224892496
 @grenades_in_tank_hatches 2398240266
+@grimdark 1655786638
+@grimdark_ace_compat 1655788854
 @hamf_helicopters 909320014
 @hmds_mod 312724602
 @ifa3_ace_compat 773759919
@@ -175,6 +177,7 @@
 @tfarbeta 894678801
 @there_is_only_war_wh40k 1160452826
 @thirsk_resigned 1558470634
+@tiow_ace_compat 1619900214
 #@unsung 943001311
 @us_general_equipment_and_accessories 1496363537
 @vanilla_smoke_blastcore 853303947
@@ -190,6 +193,7 @@
 @weapon_holster 1562915006
 @werthles_hc 510031102
 @ww2_unit_voice-overs 2066111722
+@zephik_female_units 2359977960
 @zeus_enhanced 1779063631
 @zeus_enhanced_ace_compat 2018593688
 @zeusops 2168912301
