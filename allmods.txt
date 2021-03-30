@@ -97,10 +97,12 @@
 @jsrs_reload 1429098683
 @jsrs_soundmod 861133494
 @jsrs_usaf 1180533757
+@kerama_islands 682140680
 @kingdom_of_regero 2278254320
 @kobra_mod_pack 1393068220
 @kujari 1726494027
 @lambs_danger 1858075458
+@lambs_suppression 1808238502
 @legion_armory 1660210110
 @legion_base_stable 2162749089
 @legion_base_tfar_compat 1969012355
@@ -124,6 +126,7 @@
 @no_grass 1482600949
 @northern_fronts_terrains 1630816076
 @no_weapon_sway 570118882
+@nziwasogo_v2 2084904847
 @operation_blockhead 854964321
 @operation_blockhead_expanded 862243337
 @operation_trebuchet 769440155
