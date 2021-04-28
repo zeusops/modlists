@@ -1,4 +1,6 @@
+@aarens_blast_effects 2424322922
 @ace_menu_expansion 1376867375
+@advance_aero_effects 2309871702
 @advanced_developer_tools 2369477168
 @apricots_nvg_vfx 1908374667
 @athena 1181881736
@@ -22,8 +24,10 @@
 @no_grass 1482600949
 @realistic_autopilot 1439605692
 @rested_weapon_movement 1311852588
+@rhs_helicopters_sound_improve 2178398365
 @rhs_hmds 877530153
 @simple_maptools 2013446344
 @vanilla_smoke_blastcore 853303947
 @vilehud 1538673636
+@vtol_flaps_controls 924553546
 @zeus_search_patch 1557429895

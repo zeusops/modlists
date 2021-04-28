@@ -6,6 +6,7 @@
 @40mm_bounce 1486853849
 @40mm_bounce_rhs_compat 1486862127
 @9liners_and_notepad 1210050323
+@aarens_blast_effects 2424322922
 @ace 463939057
 @ace_compat_rhsafrf 773131200
 @ace_compat_rhsgref 884966711
@@ -15,6 +16,7 @@
 @ace_menu_expansion 1376867375
 @ace-morphine-patch 1960207062
 @achilles 723217262
+@advance_aero_effects 2309871702
 @advanced_developer_tools 2369477168
 @advanced_sling_loading 615007497
 @adv_rappel 713709341
@@ -151,6 +153,7 @@
 @rested_weapon_movement 1311852588
 @rhsafrf 843425103
 @rhsgref 843593391
+@rhs_helicopters_sound_improve 2178398365
 @rhs_hmds 877530153
 @rhspkl 1978754337
 @rhssaf 843632231
@@ -192,6 +195,7 @@
 @vinjesvingen 1757672655
 @virolahti_vt7 1926513010
 @vis 1120714022
+@vtol_flaps_controls 924553546
 @walkable_moving_objects 925018569
 @weapon_eh_framework 1157866464
 @weapon_holster 1562915006
