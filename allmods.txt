@@ -87,7 +87,10 @@
 @ifa3_aio_lite 660460283
 @ifa3_liberation 950999958
 @ifa3_lite 878977835
+@imperial_conquest_40k_ace_compat 2332260711
+@imperial_conquest_warhammer_40k 2161719492
 @imperial_studios_base 2244256023
+@improved_melee_system 2291129343
 @interiors_for_cup 1883956552
 @isla_abramia 648775794
 @isla_duala 714149065
@@ -146,6 +149,7 @@
 @prone_launcher_res 1883363219
 @pulau 1423583812
 @radio_animations_tfar 1480333388
+@ramiris_melee 2329402570
 @ravage 1376636636
 @realistic_autopilot 1439605692
 @reddntank 1128145626
@@ -210,6 +214,7 @@
 @zeusops_staging 2405280625
 @zeusops_test 2180690667
 @zeus_search_patch 1557429895
+@zops_40k 2467080058
 @zops_ww2 2223637824
 @zops_ww2_v2 2374862438
 @zops_zombies 1906849902
