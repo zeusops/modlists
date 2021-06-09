@@ -3,6 +3,8 @@
 @3cb_baf_factions 1673456286
 @3cb_baf_vehicles 893349825
 @3cb_baf_weapons 893339590
+@3den_better_inventory 1124993203
+@3den_enhanced 623475643
 @40mm_bounce 1486853849
 @40mm_bounce_rhs_compat 1486862127
 @9liners_and_notepad 1210050323
@@ -53,6 +55,7 @@
 @cup_terrains_maps 583544987
 #@cup_units 497661914
 @cup_weapons 497660133
+@curatorhud 2480075656
 @cz_bren 1657263444
 @death_zone 1912836763
 #@death_zone_keys 2366459736
@@ -62,6 +65,8 @@
 @dynasound 825181638
 @earplugs 914182380
 @em_buildings 671539540
+@enhanced_gps 2480263219
+@enhanced_map 2467590475
 @enhanced_movement 333310405
 @enhanced_soundscape 825179978
 @ericj_taliban 668919514
@@ -209,6 +214,7 @@
 @zephik_female_units 2359977960
 @zeus_enhanced 1779063631
 @zeus_enhanced_ace_compat 2018593688
+@zeus_immersion_sounds 2461386136
 @zeusops 2168912301
 @zeusops_jointop 1312400601
 @zeusops_lite 1123867761
