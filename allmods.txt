@@ -75,6 +75,7 @@
 @fa18_super_hornet 1552807725
 @faces_of_war 891433622
 @fallujah 633789490
+@fawks_enhanced_nvgs 2513044572
 @fir_aws 366425329
 @flag_interact 1937443167
 @flying_legends 2012417505
