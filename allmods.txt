@@ -88,6 +88,9 @@
 @grenades_in_tank_hatches 2398240266
 @grimdark 1655786638
 @grimdark_ace_compat 1655788854
+@hafm_core_weapons 1523363834
+@hafm_navy 1118982882
+@hafm_submarines 1362114638
 @hamf_helicopters 909320014
 @hmds_mod 312724602
 @ifa3_ace_compat 773759919
