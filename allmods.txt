@@ -61,6 +61,7 @@
 #@death_zone_keys 2366459736
 @dega_v22 2454317040
 @dhi_uniforms_equipment 1573550621
+@drongos_artillery 1675485070
 @dui 1638341685
 @dynasound 825181638
 @earplugs 914182380
@@ -68,6 +69,7 @@
 @enhanced_gps 2480263219
 @enhanced_map 2467590475
 @enhanced_movement 333310405
+@enhanced_movement_rework 2034363662
 @enhanced_soundscape 825179978
 @ericj_taliban 668919514
 @esseker 498101407
@@ -114,6 +116,7 @@
 @jsrs_soundmod 861133494
 @jsrs_usaf 1180533757
 @kerama_islands 682140680
+@khoramshahr 1866738558
 @kingdom_of_regero 2278254320
 @kobra_mod_pack 1393068220
 @kujari 1726494027
@@ -181,6 +184,7 @@
 @ruha 1368857262
 @ryanzombies 501966277
 @ryanzombies_ace 1606871585
+@scottish_highlands 2214384530
 @secret_weapons 756352410
 @simple_maptools 2013446344
 @slaughter_assets 448333775
