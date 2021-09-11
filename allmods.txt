@@ -47,6 +47,7 @@
 @chernarus_redux 1128256978
 @ch_view_distance 837729515
 #@clafghan 761349672
+@commander_turret_override 2569680970
 @csa38_mod_czechoslovak_army_1938 641305739
 @csa38_mod_marenice 1526918410
 @cup_terrains_core 583496184
@@ -139,7 +140,7 @@
 @namenai_script_mod 2068356312
 @napf 1425442364
 @new_york_city 696414736
-@niarms 1208517358
+@niarms_new 2595680138
 @no_grass 1482600949
 @northern_fronts_terrains 1630816076
 @no_weapon_sway 570118882
