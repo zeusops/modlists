@@ -22,6 +22,7 @@
 @advance_aero_effects 2309871702
 @advanced_developer_tools 2369477168
 @advanced_sling_loading 615007497
+@advanced_towing 639837898
 @adv_rappel 713709341
 @aircraft_bounce 1770265310
 @align 903134884
@@ -108,6 +109,7 @@
 @island_panthera 708278910
 @jbad 520618345
 @jlts_conquest 2197549202
+@jlts_tfar_compat 2332457910
 @jlts_the_great_war 1940589429
 @jsrs_afrf 945476727
 @jsrs_gref 1180534892
@@ -195,6 +197,7 @@
 @stui 498740884
 @suppress 825174634
 @sw_opposition 944356711
+@sw_opposition_maps_pack 944723712
 @task_force_radio 620019431
 @tembelan_island 1252091296
 @tfar_animations 2141020863
@@ -230,5 +233,6 @@
 @zeusops_test 2180690667
 @zeus_search_patch 1557429895
 @zops_40k 2467080058
+@zops_sw 2613253702
 @zops_ww2_v2 2374862438
 @zops_zvp_caboose 2272718445
