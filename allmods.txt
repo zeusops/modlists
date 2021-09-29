@@ -62,7 +62,10 @@
 #@death_zone_keys 2366459736
 @dega_v22 2454317040
 @dhi_uniforms_equipment 1573550621
+@diwakos_stalker_anomalies 1383903166
+@drongos_air_operations 1533097069
 @drongos_artillery 1675485070
+@drongos_spooks_anomalies 2262255106
 @dui 1638341685
 @dynasound 825181638
 @earplugs 914182380
