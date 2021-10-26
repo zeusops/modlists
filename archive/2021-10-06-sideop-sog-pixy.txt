@@ -3,7 +3,6 @@
 @enhanced_movement 333310405
 @advanced_sling_loading 615007497
 @boxloader 1199318917
-@brush_clearing 1889104923
 @ch_view_distance 837729515
 @drongos_air_operations 1533097069
 @drongos_artillery 1675485070
