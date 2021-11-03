@@ -80,7 +80,7 @@
 @extended_jamming 1379304937
 @fa18_super_hornet 1552807725
 @faces_of_war 891433622
-@fallujah 633789490
+@fallujah 1945395022
 @fawks_enhanced_nvgs 2513044572
 @fir_aws 366425329
 @flag_interact 1937443167
@@ -124,6 +124,7 @@
 @kingdom_of_regero 2278254320
 @kobra_mod_pack 1393068220
 @kujari 1726494027
+@kunduz 1188303655
 @lambs_danger 1858075458
 @lambs_suppression 1808238502
 @legion_armory 1660210110
