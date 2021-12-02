@@ -194,12 +194,14 @@
 @secret_weapons 756352410
 @simple_maptools 2013446344
 @slaughter_assets 448333775
+@snowmobile 2329040153
 @soviet_armed_forces 716518271
 @spectrum_device 2224534021
 @spyder_addons 579263829
 @sst_opposition 1800899085
 @stui 498740884
 @suppress 825174634
+@suursaari 1680294609
 @sw_opposition 944356711
 @sw_opposition_maps_pack 944723712
 @task_force_radio 620019431
