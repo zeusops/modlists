@@ -14,6 +14,7 @@
 @ace_compat_rhsgref 884966711
 @ace_compat_rhssaf 2174495332
 @ace_compat_rhsusaf 773125288
+@ace_compat_sog 2633537792
 @ace_cpr 1104460924
 @ace_menu_expansion 1376867375
 @ace-morphine-patch 1960207062
@@ -212,6 +213,7 @@
 @thirsk_resigned 1558470634
 @tiow_ace_compat 1619900214
 #@unsung 943001311
+@unsung_redux_stable 2554978758
 @us_gear_units 1496363537
 @us_general_equipment_and_accessories 1399447232
 @vanilla_smoke_blastcore 853303947
