@@ -155,7 +155,7 @@
 @operation_trebuchet 769440155
 @operation_trebuchet_ace_compat 1267657613
 @operation_trebuchet_first_contact 1572627279
-#@optre 769440155
+@optre 769440155
 @overthrow 774201744
 @panoramic_night_vision 313041182
 @project_blufor 1638480581
