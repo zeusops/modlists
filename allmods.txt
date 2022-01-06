@@ -162,6 +162,7 @@
 @project_infinite 807038742
 @project_infinite_inspect 812441729
 @project_opfor 735566597
+@project_sfx_remastered 2129532219
 @prone_launcher 1841047025
 @prone_launcher_res 1883363219
 @pulau 1423583812
@@ -170,6 +171,7 @@
 @ravage 1376636636
 @realistic_autopilot 1439605692
 @reddntank 1128145626
+@reduced_haze 1397683809
 @reduced_weapon_sway 567737932
 @rested_weapon_movement 1311852588
 @rhsafrf 843425103

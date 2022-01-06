@@ -27,6 +27,7 @@
 @mrb_vehicle_visibility 930903722
 @no_grass 1482600949
 @realistic_autopilot 1439605692
+@reduced_haze 1397683809
 @rested_weapon_movement 1311852588
 @rhs_hmds 877530153
 @simple_maptools 2013446344
