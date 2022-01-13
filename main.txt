@@ -38,7 +38,6 @@
 @niarms_new 2595680138
 @panoramic_night_vision 313041182
 @project_blufor 1638480581
-@project_sfx_remastered 2129532219
 @prone_launcher_res 1883363219
 @rhsafrf 843425103
 @rhsgref 843593391
