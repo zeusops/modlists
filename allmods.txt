@@ -214,6 +214,8 @@
 @tiow_ace_compat 1619900214
 #@unsung 943001311
 @unsung_redux_stable 2554978758
+@usaf_ac130 2226368165
+@usaf_main 2397360831
 @us_gear_units 1496363537
 @us_general_equipment_and_accessories 1399447232
 @vanilla_smoke_blastcore 853303947
