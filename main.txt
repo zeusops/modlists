@@ -32,7 +32,6 @@
 @huey_pack 2345068704
 @interiors_for_cup 1883956552
 @jbad 520618345
-@khoramshahr 1866738558
 @kujari 1726494027
 @lambs_danger 1858075458
 @lambs_suppression 1808238502
