@@ -47,6 +47,7 @@
 @chernarus_redux 1128256978
 @ch_view_distance 837729515
 #@clafghan 761349672
+@clv_international 2575112923
 @commander_turret_override 2569680970
 @csa38_mod_czechoslovak_army_1938 641305739
 @csa38_mod_marenice 1526918410
@@ -89,6 +90,7 @@
 @goko_mag_drop 1373715042
 @gos_al_rayak 648172507
 @gos_dariyah 701535490
+@gos_nziwasogo_v2 2084904847
 @grad_trenches 1224892496
 @grenades_in_tank_hatches 2398240266
 @grimdark 1655786638
@@ -98,6 +100,7 @@
 @hafm_submarines 1362114638
 @hamf_helicopters 909320014
 @hmds_mod 312724602
+@huey_pack 2345068704
 @ifa3_ace_compat 773759919
 @ifa3_aio_lite 660460283
 @ifa3_liberation 950999958
@@ -149,7 +152,6 @@
 @no_grass 1482600949
 @northern_fronts_terrains 1630816076
 @no_weapon_sway 570118882
-@nziwasogo_v2 2084904847
 @operation_blockhead 854964321
 @operation_blockhead_expanded 862243337
 @operation_trebuchet 769440155
@@ -201,11 +203,13 @@
 @spyder_addons 579263829
 @sst_opposition 1800899085
 @stui 498740884
+@sugar_lake 550757941
 @suppress 825174634
 @suursaari 1680294609
 @sw_opposition 944356711
 @sw_opposition_maps_pack 944723712
 @task_force_radio 620019431
+@tcgm_substitute_underwear 2620183081
 @tembelan_island 1252091296
 @tfar_animations 2141020863
 @tfarbeta 894678801
