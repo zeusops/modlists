@@ -28,6 +28,7 @@
 @align 903134884
 @alive 620260972
 @anizay 1537973181
+@anti_bounce_system 2191542091
 @arma_commander 1590156730
 @armaretex 1180292686
 @armazeuscache 1908099028
@@ -40,7 +41,9 @@
 @booby_traps 1988433104
 @boxloader 1199318917
 @brush_clearing 1889104923
+@bwmod 1200127537
 @c2_ai_tool 491016790
+@carls_flashlights 2726627728
 @cartridge_cases 1198749494
 @cba_a3 450814997
 @cbrn_defense_unit 2270576186
@@ -86,6 +89,7 @@
 @flag_interact 1937443167
 @flying_legends 2012417505
 @freestyles_crash_landing 2231150238
+@free_world_armoury 2424797017
 @goko_ballistic_impact 1273833677
 @goko_mag_drop 1373715042
 @gos_al_rayak 648172507
@@ -170,6 +174,7 @@
 @pulau 1423583812
 @radio_animations_tfar 1480333388
 @ramiris_melee 2329402570
+@ratworks_insurgent_zeus_modules 2458094846
 @ravage 1376636636
 @realistic_autopilot 1439605692
 @reddntank 1128145626
@@ -220,6 +225,7 @@
 @unsung_redux_stable 2554978758
 @usaf_ac130 2226368165
 @usaf_main 2397360831
+@usaf_mod_main 2397360831
 @us_gear_units 1496363537
 @us_general_equipment_and_accessories 1399447232
 @vanilla_smoke_blastcore 853303947
@@ -231,9 +237,11 @@
 @virolahti_vt7 1926513010
 @vis 1120714022
 @vtol_flaps_controls 924553546
+@vtol_hover_controller 1786056727
 @walkable_moving_objects 925018569
 @weapon_eh_framework 1157866464
 @weapon_holster 1562915006
+@weather_plus 2735613231
 @werthles_hc 510031102
 @ww2_unit_voice-overs 2066111722
 @zephik_female_units 2359977960
