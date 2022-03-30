@@ -91,6 +91,8 @@
 @fallujah 633789490
 @fallujah_unaligned 1945395022
 @fawks_enhanced_nvgs 2513044572
+@ffaa_mod 820994401
+@ffaa_mod_ace_compat 792383905
 @fir_aws 366425329
 @flag_interact 1937443167
 @flying_legends 2012417505
