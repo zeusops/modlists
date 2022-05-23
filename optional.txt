@@ -5,6 +5,7 @@
 @advance_aero_effects 2309871702
 @advanced_developer_tools 2369477168
 @athena 1181881736
+@better_inventory 2791403093
 @blastcore_standalone 767380317
 @c2_ai_tool 491016790
 @ch_view_distance 837729515
