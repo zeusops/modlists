@@ -53,6 +53,7 @@
 @ch_view_distance 837729515
 @cia_sog_mas 680335535
 #@clafghan 761349672
+@clients_fps 897295039
 @clv_international 2575112923
 #@co10_escape 1093996668
 @commander_turret_override 2569680970
@@ -162,6 +163,7 @@
 @namenai_script_mod 2068356312
 @napf 1425442364
 @new_york_city 696414736
+@niakala 2801060088
 @niarms 1208517358
 @niarms_new 2595680138
 @no_grass 1482600949
