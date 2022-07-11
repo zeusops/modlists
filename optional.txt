@@ -31,7 +31,6 @@
 @reduced_haze 1397683809
 @rested_weapon_movement 1311852588
 @rhs_hmds 877530153
-@simple_maptools 2013446344
 @vanilla_smoke_blastcore 853303947
 @vilehud 1538673636
 @vtol_flaps_controls 924553546

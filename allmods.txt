@@ -62,6 +62,7 @@
 @cup_terrains_core 583496184
 #@cup_terrains_cwa 853743366
 @cup_terrains_maps 583544987
+@cup_terrains_maps_2_0 1981964169
 #@cup_units 497661914
 @cup_vehicles 541888371
 @cup_weapons 497660133
