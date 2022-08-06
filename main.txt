@@ -29,18 +29,16 @@
 @enhanced_movement_rework 2034363662
 @ffaa_mod 820994401
 @freestyles_crash_landing 2231150238
-@gos_nziwasogo_v2 2084904847
 @grad_trenches 1224892496
 @interiors_for_cup 1883956552
+@isla_duala 714149065
 @jbad 520618345
+@khoramshahr 1866738558
 @lambs_danger 1858075458
 @lambs_suppression 1808238502
 @leshens_bandanas 2349648889
-@lythium 909547724
 @mrb_voicestop 876991445
-@niakala 2801060088
 @niarms_new 2595680138
-@nziwasogo_v2 2084904847
 @panoramic_night_vision 313041182
 @project_blufor 1638480581
 @prone_launcher_res 1883363219
@@ -53,6 +51,7 @@
 @rksl_common_library 2333743487
 @rksl_landing_craft 1752496126
 @rr_immersive_maps_by_laxemann 2222778153
+@scottish_highlands 2214384530
 @simple_maptools 2013446344
 @spectrum_device 2224534021
 @tcgm_substitute_underwear 2620183081
@@ -61,7 +60,6 @@
 @usaf_ac130 2226368165
 @usaf_mod_main 2397360831
 @vet_unflipping 1703187116
-@vinjesvingen 1757672655
 @weather_plus 2735613231
 @werthles_hc 510031102
 @zeus_enhanced 1779063631
