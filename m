@@ -8,8 +8,8 @@ if [ $# -lt 1 ]; then
   exit 1
 fi
 
-for x in $@; do
-  if ! grep $x allmods.txt; then
+for x in "$@"; do
+  if ! grep "$x" allmods.txt; then
     echo "$x not found!" 1>&2
   fi
 done
