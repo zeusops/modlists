@@ -23,6 +23,7 @@
 @advanced_developer_tools 2369477168
 @advanced_sling_loading 615007497
 @advanced_towing 639837898
+@advanced_urban_rappelling 730310357
 @adv_rappel 713709341
 @aircraft_bounce 1770265310
 @align 903134884
@@ -42,6 +43,7 @@
 @booby_traps 1988433104
 @bornholm 428181330
 @boxloader 1199318917
+@brighter_flares 2095827925
 @brush_clearing 1889104923
 @bwmod 1200127537
 @c2_ai_tool 491016790
@@ -123,6 +125,7 @@
 @imperial_conquest_40k_ace_compat 2332260711
 @imperial_conquest_warhammer_40k 2161719492
 @improved_melee_system 2291129343
+@inidbi2 1768992669
 @interiors_for_cup 1883956552
 @isla_abramia 648775794
 @isla_duala 714149065
@@ -164,6 +167,7 @@
 @namalsk 1206035033
 @namenai_script_mod 2068356312
 @napf 1425442364
+@navy_helicopters_2035 1459737219
 @new_york_city 696414736
 @niakala 2801060088
 @niarms 1208517358
@@ -184,6 +188,7 @@
 @project_blufor 1638480581
 @project_infinite 807038742
 @project_infinite_inspect 812441729
+@project_livonia 2445355702
 @project_opfor 735566597
 @project_sfx_remastered 2129532219
 @prone_launcher 1841047025
