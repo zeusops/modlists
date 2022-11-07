@@ -69,6 +69,8 @@
 @cup_vehicles 541888371
 @cup_weapons 497660133
 @curatorhud 2480075656
+@cytech_core_assets 2764686098
+@cytech_underground_map 2764740492
 @cz_bren 1657263444
 @death_zone 1912836763
 #@death_zone_keys 2366459736
