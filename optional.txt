@@ -24,6 +24,7 @@
 @jsrs_soundmod 861133494
 @jsrs_usaf 1180533757
 @lowgrass 1165460123
+@map_darkmode 2479229680
 @mrb_air_visibility 929396506
 @mrb_vehicle_visibility 930903722
 @no_grass 1482600949

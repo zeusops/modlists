@@ -159,6 +159,7 @@
 @lowgrass 1165460123
 @lythium 909547724
 @magazine_simulation 1373715042
+@map_darkmode 2479229680
 @max_alien 1450865805
 @max_terminator 1453541574
 @mbg_buildings 962932583
@@ -185,6 +186,7 @@
 #@optre_ace_compat 1267657613
 #@optre_first_contact 1572627279
 #@optreplus 1763651451
+@ot_expansion_eden 1923321700
 @overthrow 774201744
 @panoramic_night_vision 313041182
 @project_blufor 1638480581
