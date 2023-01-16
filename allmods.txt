@@ -182,9 +182,9 @@
 @opcosmetics 1713301206
 @operation_blockhead 854964321
 @operation_blockhead_expanded 862243337
-#@optre 769440155
-#@optre_ace_compat 1267657613
-#@optre_first_contact 1572627279
+@optre 769440155
+@optre_ace_compat 1267657613
+@optre_first_contact 1572627279
 #@optreplus 1763651451
 @ot_expansion_eden 1923321700
 @overthrow 774201744
