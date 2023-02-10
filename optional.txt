@@ -15,7 +15,6 @@
 @enhanced_gps 2480263219
 @enhanced_map 2467590475
 @enhanced_soundscape 825179978
-@extended_jamming 1379304937
 @fawks_enhanced_nvgs 2513044572
 @hmds_mod 312724602
 @jsrs_afrf 945476727
