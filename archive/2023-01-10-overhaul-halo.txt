@@ -45,5 +45,4 @@
 @zeus_enhanced 1779063631
 @zeus_enhanced_ace_compat 2018593688
 @zeus_immersion_sounds 2461386136
-@zeusops_overhaul_modloader 2879803157
 @zeusops_utils 2680458207
