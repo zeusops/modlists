@@ -236,6 +236,7 @@
 @spectrum_device 2224534021
 @spyder_addons 579263829
 @sst_opposition 1800899085
+@stargate 815366548
 @stui 498740884
 @sugar_lake 550757941
 @suppress 825174634
