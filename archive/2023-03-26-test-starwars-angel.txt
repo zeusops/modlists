@@ -45,7 +45,6 @@
 @rr_immersive_maps_by_laxemann 2222778153
 @simple_maptools 2013446344
 @spectrum_device 2224534021
-@star_wars_opposition_maps 2899485675
 @tcgm_substitute_underwear 2620183081
 @tfar_animations 2141020863
 @tfarbeta 894678801
