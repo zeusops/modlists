@@ -7,6 +7,7 @@
 @ace_compat_rhssaf 2174495332
 @ace_compat_rhsusaf 773125288
 @advanced_sling_loading 615007497
+@ai_cannot_see_through_grass 2946868556
 @aircraft_bounce 1770265310
 @anti_bounce_system 2191542091
 @archipelago 1726184748
@@ -28,13 +29,14 @@
 @dui 1638341685
 @enhanced_movement 333310405
 @enhanced_movement_rework 2034363662
-@fallujah_unaligned 1945395022
 @ffaa_mod 820994401
 @freestyles_crash_landing 2231150238
-@gos_dariyah 701535490
 @grad_trenches 1224892496
+@ifx_ace3_window_break 2763469189
 @interiors_for_cup 1883956552
+@island_panthera 708278910
 @jbad 520618345
+@khoramshahr 1866738558
 @lambs_danger 1858075458
 @lambs_suppression 1808238502
 @leshens_bandanas 2349648889
@@ -54,6 +56,7 @@
 @rr_immersive_maps_by_laxemann 2222778153
 @simple_maptools 2013446344
 @spectrum_device 2224534021
+@sumava 2947655994
 @tcgm_substitute_underwear 2620183081
 @tfar_animations 2141020863
 @tfarbeta 894678801

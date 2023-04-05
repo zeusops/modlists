@@ -25,6 +25,7 @@
 @advanced_towing 639837898
 @advanced_urban_rappelling 730310357
 @adv_rappel 713709341
+@ai_cannot_see_through_grass 2946868556
 @aircraft_bounce 1770265310
 @align 903134884
 @alive 620260972
@@ -97,6 +98,7 @@
 @extended_jamming 1379304937
 @fa18_super_hornet 1552807725
 @faces_of_war 891433622
+@fallujah_2.0 2926828901
 @fallujah_unaligned 1945395022
 @fallujah_wrong 633789490
 @fawks_enhanced_nvgs 2513044572
@@ -126,6 +128,7 @@
 @ifa3_aio_lite 660460283
 @ifa3_liberation 950999958
 @ifa3_lite 878977835
+@ifx_ace3_window_break 2763469189
 @imperial_conquest_40k_ace_compat 2332260711
 @imperial_conquest_warhammer_40k 2161719492
 @improved_melee_system 2291129343
@@ -239,6 +242,7 @@
 @stargate 815366548
 @stui 498740884
 @sugar_lake 550757941
+@sumava 2947655994
 @suppress 825174634
 @survivable_crashes 1260652016
 @suursaari 1680294609
