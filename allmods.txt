@@ -98,6 +98,7 @@
 @extended_jamming 1379304937
 @fa18_super_hornet 1552807725
 @faces_of_war 891433622
+@faces_of_war_gold_beach 2043771912
 @fallujah_2.0 2926828901
 @fallujah_unaligned 1945395022
 @fallujah_wrong 633789490
@@ -106,9 +107,12 @@
 #@ffaa_mod_ace_compat 792383905
 @fir_aws 366425329
 @flag_interact 1937443167
+@flags_ww2 1879448616
 @flying_legends 2012417505
 @freestyles_crash_landing 2231150238
 @free_world_armoury 2424797017
+@geista3_lite 773314286
+@geista3_lite_fow 1146976852
 @goko_ballistic_impact 1273833677
 @goko_mag_drop 1373715042
 @gos_al_rayak 648172507
@@ -125,6 +129,7 @@
 @hmds_mod 312724602
 @huey_pack 2345068704
 @ifa3_ace_compat 773759919
+@ifa3_aio 2648308937
 @ifa3_aio_lite 660460283
 @ifa3_liberation 950999958
 @ifa3_lite 878977835
@@ -280,6 +285,9 @@
 @weapon_holster 1562915006
 @weather_plus 2735613231
 @werthles_hc 510031102
+@ww2_markers 1310692379
+@ww2_objects 937438041
+@ww2_phones 2423977008
 @ww2_unit_voice-overs 2066111722
 @zephik_female_units 2359977960
 @zeus_enhanced 1779063631
