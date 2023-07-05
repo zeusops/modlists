@@ -61,6 +61,7 @@
 @clients_fps 897295039
 @clv_international 2575112923
 #@co10_escape 1093996668
+@cold_war_rhs_retexture 2966202074
 @commander_turret_override 2569680970
 @csa38_mod_czechoslovak_army_1938 641305739
 @csa38_mod_marenice 1526918410
@@ -117,7 +118,6 @@
 @goko_mag_drop 1373715042
 @gos_al_rayak 648172507
 @gos_dariyah 701535490
-@gos_nziwasogo_v2 2084904847
 @grad_trenches 1224892496
 @grenades_in_tank_hatches 2398240266
 @grimdark 1655786638
@@ -187,6 +187,7 @@
 @niarms_new 2595680138
 @no_grass 1482600949
 @northern_fronts_terrains 1630816076
+@novogorsk 2979021411
 @no_weapon_sway 570118882
 @nziwasogo_v2 2084904847
 @opcosmetics 1713301206
