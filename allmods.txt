@@ -41,6 +41,7 @@
 @athena 1181881736
 @automatic_view_distance 1544955993
 @backpackonchest 820924072
+@better_inventory 2791403093
 @bettir 2260572637
 @blastcore_standalone 767380317
 @booby_traps 1988433104
@@ -157,6 +158,7 @@
 @kobra_mod_pack 1393068220
 @kujari 1726494027
 @kunduz 1188303655
+@ladder_tweak_remastered 2969350304
 @lambs_danger 1858075458
 @lambs_suppression 1808238502
 @legion_armory 1660210110
@@ -214,6 +216,7 @@
 @ratworks_insurgent_zeus_modules 2458094846
 @ravage 1376636636
 @realistic_autopilot 1439605692
+@recolor 649832908
 @reddntank 1128145626
 @reduced_haze 1397683809
 @reduced_weapon_sway 567737932
@@ -239,6 +242,7 @@
 @scottish_highlands 2214384530
 @secret_weapons 756352410
 @simple_maptools 2013446344
+@simple_suppress 2461607508
 @slaughter_assets 448333775
 @snowmobile 2329040153
 @soviet_armed_forces 716518271
