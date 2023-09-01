@@ -9,7 +9,6 @@
 @advanced_sling_loading 615007497
 @ai_cannot_see_through_grass 2946868556
 @aircraft_bounce 1770265310
-@anizay 1537973181
 @anti_bounce_system 2191542091
 @backpackonchest 820924072
 @bettir 2260572637
@@ -31,7 +30,6 @@
 @enhanced_movement_rework 2034363662
 @ffaa_mod 820994401
 @freestyles_crash_landing 2231150238
-@gos_dariyah 701535490
 @grad_trenches 1224892496
 @ifx_ace3_window_break 2763469189
 @interiors_for_cup 1883956552
@@ -43,6 +41,7 @@
 @leshens_bandanas 2349648889
 @mrb_voicestop 876991445
 @niarms_new 2595680138
+@novogorsk 2979021411
 @ot_expansion_eden 1923321700
 @panoramic_night_vision 313041182
 @project_blufor 1638480581
@@ -54,9 +53,7 @@
 @rksl_attachments 1661066023
 @rksl_common_library 2333743487
 @rksl_landing_craft 1752496126
-@rosche 1527410521
 @rr_immersive_maps_by_laxemann 2222778153
-@ruha 1368857262
 @simple_maptools 2013446344
 @spectrum_device 2224534021
 @tcgm_substitute_underwear 2620183081
