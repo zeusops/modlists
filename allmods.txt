@@ -3,11 +3,13 @@
 @3cb_baf_factions 1673456286
 @3cb_baf_vehicles 893349825
 @3cb_baf_weapons 893339590
+@3den_attributes_fast_load 3023395342
 @3den_better_inventory 1124993203
 @3den_enhanced 623475643
 @40mm_bounce 1486853849
 @40mm_bounce_rhs_compat 1486862127
 @9liners_and_notepad 1210050323
+@a3_thermal_improvement 2041057379
 @aarens_blast_effects 2424322922
 @ace 463939057
 @ace_compat_rhsafrf 773131200
@@ -43,6 +45,7 @@
 @backpackonchest 820924072
 @better_inventory 2791403093
 @bettir 2260572637
+@blastcore_murr_edition 2257686620
 @blastcore_standalone 767380317
 @booby_traps 1988433104
 @bornholm 428181330
@@ -58,6 +61,7 @@
 @chernarus_redux 1128256978
 @ch_view_distance 837729515
 @cia_sog_mas 680335535
+@cinematic_lens_flare 878502647
 #@clafghan 761349672
 @clients_fps 897295039
 @clv_international 2575112923
@@ -83,6 +87,7 @@
 @dega_v22 2454317040
 @dhi_uniforms_equipment 1573550621
 @diwakos_stalker_anomalies 1383903166
+@driver_dismount_sensor 2620766038
 @drongos_air_operations 1533097069
 @drongos_artillery 1675485070
 @drongos_spooks_anomalies 2262255106
@@ -156,6 +161,7 @@
 @khoramshahr 1866738558
 @kingdom_of_regero 2278254320
 @kobra_mod_pack 1393068220
+@korsac 3043043427
 @kujari 1726494027
 @kunduz 1188303655
 @ladder_tweak_remastered 2969350304
@@ -169,6 +175,7 @@
 @leshens_bandanas 2349648889
 @lingor 718649903
 @lowgrass 1165460123
+@lybor 3013515917
 @lythium 909547724
 @magazine_simulation 1373715042
 @map_darkmode 2479229680
@@ -235,6 +242,7 @@
 @robocop 2801119312
 @rosche 1527410521
 @rr_immersive_maps_by_laxemann 2222778153
+@rr_immersive_maps_fixes 2626194636
 @ruegen 835257174
 @ruha 1368857262
 @ryanzombies 501966277
@@ -264,6 +272,7 @@
 @tembelan_island 1252091296
 @tfar_animations 2141020863
 @tfarbeta 894678801
+@tgp_simple_cockpit_slew 2680118205
 @there_is_only_war_wh40k 1160452826
 @thirsk_resigned 1558470634
 @tiow_ace_compat 1619900214

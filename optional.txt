@@ -1,3 +1,4 @@
+@3den_attributes_fast_load 3023395342
 @3den_better_inventory 1124993203
 @3den_enhanced 623475643
 @aarens_blast_effects 2424322922
@@ -6,9 +7,11 @@
 @advanced_developer_tools 2369477168
 @athena 1181881736
 @better_inventory 2791403093
+@blastcore_murr_edition 2257686620
 @blastcore_standalone 767380317
 @c2_ai_tool 491016790
 @ch_view_distance 837729515
+@cinematic_lens_flare 878502647
 @curatorhud 2480075656
 @dynasound 825181638
 @earplugs 914182380
@@ -33,6 +36,7 @@
 @rested_weapon_movement 1311852588
 @rhs_hmds 877530153
 @simple_suppress 2461607508
+@tgp_simple_cockpit_slew 2680118205
 @vanilla_smoke_blastcore 853303947
 @vilehud 1538673636
 @vtol_flaps_controls 924553546
