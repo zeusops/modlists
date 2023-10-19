@@ -3,10 +3,6 @@
 @3cb_baf_weapons 893339590
 @a3_thermal_improvement 2041057379
 @ace 463939057
-@ace_compat_rhsafrf 773131200
-@ace_compat_rhsgref 884966711
-@ace_compat_rhssaf 2174495332
-@ace_compat_rhsusaf 773125288
 @advanced_sling_loading 615007497
 @ai_cannot_see_through_grass 2946868556
 @aircraft_bounce 1770265310
