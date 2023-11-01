@@ -207,6 +207,7 @@
 @panoramic_night_vision 313041182
 @project_blufor 1638480581
 @project_infinite 807038742
+@project_infinite_ace_compat 1706933019
 @project_infinite_inspect 812441729
 @project_livonia 2445355702
 @project_opfor 735566597
@@ -299,6 +300,7 @@
 @ww2_phones 2423977008
 @ww2_unit_voice-overs 2066111722
 @zephik_female_units 2359977960
+@zeus_additions 2387297579
 @zeus_enhanced 1779063631
 @zeus_enhanced_ace_compat 2018593688
 @zeus_immersion_sounds 2461386136
