@@ -213,6 +213,7 @@
 @project_opfor 735566597
 @project_sfx_remastered 2129532219
 @prone_launcher 1841047025
+@maptools_remastered 3032131959
 @prone_launcher_resigned 1883363219
 @pulau 1423583812
 @radio_animations_tfar 1480333388
