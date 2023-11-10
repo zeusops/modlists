@@ -17,6 +17,8 @@
 @ace_menu_expansion 1376867375
 @ace-morphine-patch 1960207062
 @achilles 723217262
+@acoustic_guitar_mod 1378775292
+@acoustic_guitar_mod_tracks_removed 2632978799
 @advance_aero_effects 2309871702
 @advanced_developer_tools 2369477168
 @advanced_sling_loading 615007497
@@ -55,6 +57,8 @@
 @cba_a3 450814997
 @cbrn_defense_unit 2270576186
 @chernarus_redux 1128256978
+@chernobyl 1724046234
+@chornobyl_zone 692082939
 @ch_view_distance 837729515
 @cia_sog_mas 680335535
 @cinematic_lens_flare 878502647
@@ -175,6 +179,7 @@
 @lythium 909547724
 @magazine_simulation 1373715042
 @map_darkmode 2479229680
+@maptools_remastered 3032131959
 @max_alien 1450865805
 @max_terminator 1453541574
 @mbg_buildings 962932583
@@ -183,6 +188,7 @@
 @mrb_voicestop 876991445
 @mull_of_kintyre 1982652717
 @namalsk 1206035033
+@namalsk 3013966707
 @namenai_script_mod 2068356312
 @napf 1425442364
 @navy_helicopters_2035 1459737219
@@ -192,9 +198,11 @@
 @niarms_new 2595680138
 @no_grass 1482600949
 @northern_fronts_terrains 1630816076
+@not_what_they_seem 2187272188
 @novogorsk 2979021411
 @no_weapon_sway 570118882
 @nziwasogo_v2 2084904847
+@objdavis_stalker_props 2961050140
 @opcosmetics 1713301206
 @operation_blockhead 854964321
 @operation_blockhead_expanded 862243337
@@ -213,7 +221,6 @@
 @project_opfor 735566597
 @project_sfx_remastered 2129532219
 @prone_launcher 1841047025
-@maptools_remastered 3032131959
 @prone_launcher_resigned 1883363219
 @pulau 1423583812
 @radio_animations_tfar 1480333388
@@ -256,6 +263,11 @@
 @spectrum_device 2224534021
 @spyder_addons 579263829
 @sst_opposition 1800899085
+@stalker_cbrn_equipment 1996610193
+@stalker_guitar_songs 2611091361
+@stalker_map_2.0 2913624341
+@stalker_stuff 2781344095
+@stalker_tracks_for_acoustic_guitar 2621710217
 @stargate 815366548
 @stui 498740884
 @sugar_lake 550757941
