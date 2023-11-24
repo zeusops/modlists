@@ -8,7 +8,6 @@
 @aircraft_bounce 1770265310
 @anti_bounce_system 2191542091
 @backpackonchest 820924072
-@better_inventory 2791403093
 @bettir 2260572637
 @boxloader 1199318917
 @brush_clearing 1889104923
@@ -30,8 +29,6 @@
 @drongos_artillery 1675485070
 @drongos_spooks_anomalies 2262255106
 @dui 1638341685
-@enhanced_gps 2480263219
-@enhanced_map 2467590475
 @enhanced_movement 333310405
 @enhanced_movement_rework 2034363662
 @ffaa_mod 820994401
@@ -70,7 +67,6 @@
 @usaf_ac130 2226368165
 @usaf_main 2397360831
 @vet_unflipping 1703187116
-@vilehud 1538673636
 @weather_plus 2735613231
 @werthles_hc 510031102
 @zeus_additions 2387297579
