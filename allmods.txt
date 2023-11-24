@@ -85,6 +85,7 @@
 #@death_zone_keys 2366459736
 @deformer 2822758266
 @dega_v22 2454317040
+@devourerkings_necroplague_mutants 2616555444
 @dhi_uniforms_equipment 1573550621
 @diwakos_stalker_anomalies 1383903166
 @driver_dismount_sensor 2620766038
@@ -328,6 +329,7 @@
 @zeus_search_patch 1557429895
 @zombies_and_creatures 2789152015
 @zops_40k 2467080058
+@zops_stalker_guitar_juryrig 3078926753
 @zops_sw 2613253702
 #@zops_ww2 2223637824
 @zops_ww2_v2 2374862438
