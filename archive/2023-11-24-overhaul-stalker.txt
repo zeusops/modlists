@@ -64,7 +64,6 @@
 @simple_maptools 2013446344
 @spectrum_device 2224534021
 @stalker_cbrn_equipment 1996610193
-@stalker_equipment 1305035601
 @tcgm_substitute_underwear 2620183081
 @tfar_animations 2141020863
 @tfarbeta 894678801
@@ -78,5 +77,5 @@
 @zeus_enhanced 1779063631
 @zeus_enhanced_ace_compat 2018593688
 @zeus_immersion_sounds 2461386136
-@zeusops 2168912301
+@zeusops_utils 2680458207
 @zops_stalker_guitar_juryrig 3078926753
