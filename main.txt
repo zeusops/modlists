@@ -10,6 +10,7 @@
 @anti_bounce_system 2191542091
 @backpackonchest 820924072
 @bettir 2260572637
+@bibos_european_insignia_pack 654816931
 @boxloader 1199318917
 @brush_clearing 1889104923
 @bwmod 1200127537
@@ -48,6 +49,7 @@
 @project_blufor 1638480581
 @project_infinite 807038742
 @project_infinite_ace_compat 1706933019
+@project_true_viking 3092130870
 @prone_launcher_resigned 1883363219
 @rhsafrf 843425103
 @rhsgref 843593391

@@ -43,6 +43,7 @@
 @backpackonchest 820924072
 @better_inventory 2791403093
 @bettir 2260572637
+@bibos_european_insignia_pack 654816931
 @blastcore_murr_edition 2257686620
 @blastcore_standalone 767380317
 @booby_traps 1988433104
@@ -222,6 +223,7 @@
 @project_livonia 2445355702
 @project_opfor 735566597
 @project_sfx_remastered 2129532219
+@project_true_viking 3092130870
 @prone_launcher 1841047025
 @prone_launcher_resigned 1883363219
 @pulau 1423583812
