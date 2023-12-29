@@ -8,8 +8,6 @@
 @a3_thermal_improvement 2041057379
 @ace 463939057
 @ace_vehicle_medical 1911374016
-@acre2 751965892
-@acre_animations 2140308792
 @additional_air_weapon 2099675634
 @advanced_sling_loading 615007497
 @advanced_towing 639837898
@@ -42,4 +40,5 @@
 @rhsusaf 843577117
 @rksl_attachments 1661066023
 @tcgm_bikebackpack 2096950604
+@tfarbeta 894678801
 @webknights_two_primary_weapons 2976569274
