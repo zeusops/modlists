@@ -32,11 +32,8 @@
 @there_is_only_war_wh40k 1160452826
 @tiow2 2426005950
 @tts_beam_laser 2393517275
-@warhammer_40k_marker_pack 1904207264
 @warhammer_40k_cultist_voice 2511357695
 @warhammer_40k_map_markers 1976842005
-@warhammer_40k_music 2165327655
-@warhammer_40k_ork_voice 2443360105
 @warhammer_40k_space_marine_voice_mod 2035487172
 @warhammer_40k_voice_pack 2632242090
 @wbk_imperial_knights 2689362894
