@@ -21,6 +21,7 @@
 @ifx_ace3_window_break 2763469189
 @imperial_conquest_warhammer_40k 2161719492
 @improved_melee_system 2291129343
+@ims_warhammer 2656715911
 @lambs_danger 1858075458
 @lambs_suppression 1808238502
 @mrb_voicestop 876991445
@@ -45,3 +46,4 @@
 @zeus_enhanced_ace_compat 2018593688
 @zeus_immersion_sounds 2461386136
 @zeusops_utils 2680458207
+@zlusken_whistle_and_bugle_mod 884372152

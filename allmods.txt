@@ -101,6 +101,7 @@
 #@death_zone_keys 2366459736
 @deformer 2822758266
 @dega_v22 2454317040
+@departmento_munitorum_warhammer_40k 2742419831
 @devourerkings_necroplague_mutants 2616555444
 @dhi_uniforms_equipment 1573550621
 @diwakos_stalker_anomalies 1383903166
@@ -144,6 +145,7 @@
 @gos_al_rayak 648172507
 @gos_dariyah 701535490
 @grad_trenches 1224892496
+@greenskins 2599706429
 @grenades_in_tank_hatches 2398240266
 @grimdark 1655786638
 @grimdark_ace_compat 1655788854
@@ -162,6 +164,7 @@
 @imperial_conquest_40k_ace_compat 2332260711
 @imperial_conquest_warhammer_40k 2161719492
 @improved_melee_system 2291129343
+@ims_warhammer 2656715911
 @inidbi2 1768992669
 @interiors_for_cup 1883956552
 @isla_abramia 648775794
@@ -311,7 +314,9 @@
 @tgp_simple_cockpit_slew 2680118205
 @there_is_only_war_wh40k 1160452826
 @thirsk_resigned 1558470634
+@tiow2 2426005950
 @tiow_ace_compat 1619900214
+@tts_beam_laser 2393517275
 @umb_colombia 2266710560
 @unsung 943001311
 @unsung_redux_stable 2554978758
@@ -331,6 +336,11 @@
 @vtol_flaps_controls 924553546
 @vtol_hover_controller 1786056727
 @walkable_moving_objects 925018569
+@warhammer_40k_cultist_voice 2511357695
+@warhammer_40k_map_markers 1976842005
+@warhammer_40k_space_marine_voice_mod 2035487172
+@warhammer_40k_voice_pack 2632242090
+@wbk_imperial_knights 2689362894
 @weapon_eh_framework 1157866464
 @weapon_holster 1562915006
 @weather_plus 2735613231
@@ -340,6 +350,7 @@
 @ww2_objects 937438041
 @ww2_phones 2423977008
 @ww2_unit_voice-overs 2066111722
+@yilan001s_40k_object_addon 2597865629
 @zephik_female_units 2359977960
 @zeus_additions 2387297579
 @zeus_enhanced 1779063631
@@ -354,6 +365,7 @@
 @zeusops_utils 2680458207
 #@zeusops_ww2 1314674460
 @zeus_search_patch 1557429895
+@zlusken_whistle_and_bugle_mod 884372152
 @zombies_and_creatures 2789152015
 @zops_40k 2467080058
 @zops_stalker_guitar_juryrig 3078926753
