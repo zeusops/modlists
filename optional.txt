@@ -37,6 +37,7 @@
 @rested_weapon_movement 1311852588
 @rhs_hmds 877530153
 @simple_suppress 2461607508
+@tfar_scribbles 3142300742
 @tgp_simple_cockpit_slew 2680118205
 @vanilla_smoke_blastcore 853303947
 @vilehud 1538673636

@@ -82,6 +82,7 @@
 @clients_fps 897295039
 @clv_international 2575112923
 #@co10_escape 1093996668
+@cold_war_factions 2966202074
 @cold_war_rhs_retexture 2966202074
 @commander_turret_override 2569680970
 @csa38_mod_czechoslovak_army_1938 641305739
@@ -145,6 +146,7 @@
 @gos_al_rayak 648172507
 @gos_dariyah 701535490
 @grad_trenches 1224892496
+@green_sea_terrain 2645015212
 @greenskins 2599706429
 @grenades_in_tank_hatches 2398240266
 @grimdark 1655786638
@@ -311,6 +313,7 @@
 @tembelan_island 1252091296
 @tfar_animations 2141020863
 @tfarbeta 894678801
+@tfar_scribbles 3142300742
 @tgp_simple_cockpit_slew 2680118205
 @there_is_only_war_wh40k 1160452826
 @thirsk_resigned 1558470634
