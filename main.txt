@@ -19,7 +19,6 @@
 @cbrn_defense_unit 2270576186
 @ch_view_distance 837729515
 @clients_fps 897295039
-@cold_war_factions 2966202074
 @cup_terrains_core 583496184
 @cup_terrains_maps_2_0 1981964169
 @cup_terrains_maps 583544987
