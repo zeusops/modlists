@@ -329,6 +329,7 @@
 @usaf_utility 2397376046
 @us_gear_units 1496363537
 @us_general_equipment_and_accessories 1399447232
+@usp_gear_nvg 2049719091
 @vanilla_smoke_blastcore 853303947
 @vcom 721359761
 @vet_unflipping 1703187116
@@ -344,6 +345,7 @@
 @warhammer_40k_map_markers 1976842005
 @warhammer_40k_space_marine_voice_mod 2035487172
 @warhammer_40k_voice_pack 2632242090
+@wbk_immersive_animations 3165450999
 @wbk_imperial_knights 2689362894
 @weapon_eh_framework 1157866464
 @weapon_holster 1562915006
