@@ -29,7 +29,6 @@
 @enhanced_movement_rework 2034363662
 @freestyles_crash_landing 2231150238
 @grad_trenches 1224892496
-@green_sea_terrain 2645015212
 @ifx_ace3_window_break 2763469189
 @interiors_for_cup 1883956552
 @isla_duala 714149065
@@ -63,7 +62,7 @@
 @tfarbeta 894678801
 @usaf_ac130 2226368165
 @usaf_main 2397360831
-@usaf_utility 2397376046
+@usp_gear_core 2044374502
 @usp_gear_nvg 2049719091
 @vet_unflipping 1703187116
 @wbk_immersive_animations 3165450999

@@ -329,6 +329,7 @@
 @usaf_utility 2397376046
 @us_gear_units 1496363537
 @us_general_equipment_and_accessories 1399447232
+@usp_gear_core 2044374502
 @usp_gear_nvg 2049719091
 @vanilla_smoke_blastcore 853303947
 @vcom 721359761
