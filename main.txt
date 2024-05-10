@@ -34,7 +34,6 @@
 @ifx_ace3_window_break 2763469189
 @interiors_for_cup 1883956552
 @jbad 520618345
-@khoramshahr 1866738558
 @kujari 1726494027
 @ladder_tweak_remastered 2969350304
 @lambs_danger 1858075458
