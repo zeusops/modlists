@@ -2,7 +2,7 @@
 @3den_better_inventory 1124993203
 @3den_enhanced 623475643
 @aarens_blast_effects 2424322922
-@ace_menu_expansion 1376867375
+@ace_interaction_menu_enhanced 2132195038
 @advance_aero_effects 2309871702
 @advanced_developer_tools 2369477168
 @athena 1181881736
@@ -18,6 +18,7 @@
 @enhanced_gps 2480263219
 @enhanced_map 2467590475
 @enhanced_soundscape 825179978
+@enhanced_soundscape_plus 2938312887
 @fawks_enhanced_nvgs 2513044572
 @hmds_mod 312724602
 @jsrs_afrf 945476727
