@@ -21,6 +21,7 @@
 @enhanced_soundscape_plus 2938312887
 @fawks_enhanced_nvgs 2513044572
 @hmds_mod 312724602
+@improved_ws_sounds 2992224248
 @jsrs_afrf 945476727
 @jsrs_gref 1180534892
 @jsrs_reload 1429098683
@@ -29,6 +30,7 @@
 @lowgrass 1165460123
 @map_darkmode 2479229680
 @maptools_remastered 3032131959
+@milsim_hud 2998946250
 @mrb_air_visibility 929396506
 @mrb_vehicle_visibility 930903722
 @no_grass 1482600949

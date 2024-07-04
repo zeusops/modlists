@@ -19,6 +19,7 @@
 @ace 463939057
 @ace_compat_sog 2633537792
 @ace_cpr 1104460924
+@ace_interaction_menu_enhanced 2132195038
 @ace_menu_expansion 1376867375
 @ace-morphine-patch 1960207062
 @ace_vehicle_medical 1911374016
@@ -120,6 +121,7 @@
 @enhanced_movement 333310405
 @enhanced_movement_rework 2034363662
 @enhanced_soundscape 825179978
+@enhanced_soundscape_plus 2938312887
 @ericj_taliban 668919514
 @esseker 498101407
 @extended_jamming 1379304937
@@ -169,6 +171,7 @@
 @imperial_conquest_40k_ace_compat 2332260711
 @imperial_conquest_warhammer_40k 2161719492
 @improved_melee_system 2291129343
+@improved_ws_sounds 2992224248
 @ims_warhammer 2656715911
 @inidbi2 1768992669
 @interiors_for_cup 1883956552
@@ -212,6 +215,7 @@
 @max_alien 1450865805
 @max_terminator 1453541574
 @mbg_buildings 962932583
+@milsim_hud 2998946250
 @mrb_air_visibility 929396506
 @mrb_vehicle_visibility 930903722
 @mrb_voicestop 876991445
