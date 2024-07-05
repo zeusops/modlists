@@ -22,6 +22,8 @@
 @fawks_enhanced_nvgs 2513044572
 @hmds_mod 312724602
 @improved_ws_sounds 2992224248
+@improved_ws_sounds_3cb_compat 3004062886
+@improved_ws_sounds_rhs_compat 2994372610
 @jsrs_afrf 945476727
 @jsrs_gref 1180534892
 @jsrs_reload 1429098683

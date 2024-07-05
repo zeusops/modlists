@@ -172,6 +172,8 @@
 @imperial_conquest_warhammer_40k 2161719492
 @improved_melee_system 2291129343
 @improved_ws_sounds 2992224248
+@improved_ws_sounds_3cb_compat 3004062886
+@improved_ws_sounds_rhs_compat 2994372610
 @ims_warhammer 2656715911
 @inidbi2 1768992669
 @interiors_for_cup 1883956552
