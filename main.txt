@@ -69,6 +69,5 @@
 @werthles_hc 510031102
 @zeus_additions 2387297579
 @zeus_enhanced 1779063631
-@zeus_enhanced_ace_compat 2018593688
 @zeus_immersion_sounds 2461386136
 @zeusops 2168912301
