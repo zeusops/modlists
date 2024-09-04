@@ -64,6 +64,7 @@
 @booby_traps 1988433104
 @bornholm 428181330
 @boxloader 1199318917
+@breach_rewrite 3283645995
 @brighter_flares 2095827925
 @brighter_flares_ace 2095882226
 @brush_clearing 1889104923
@@ -151,6 +152,7 @@
 @gos_al_rayak 648172507
 @gos_dariyah 701535490
 @grad_trenches 1224892496
+@green_sea_passports 3147212715
 @green_sea_terrain 2645015212
 @greenskins 2599706429
 @grenades_in_tank_hatches 2398240266
@@ -173,6 +175,7 @@
 @improved_melee_system 2291129343
 @improved_ws_sounds 2992224248
 @improved_ws_sounds_3cb_compat 3004062886
+@improved_ws_sounds_pb_compat 2992224248
 @improved_ws_sounds_rhs_compat 2994372610
 @ims_warhammer 2656715911
 @inidbi2 1768992669
@@ -186,6 +189,7 @@
 @jlts_the_great_war 1940589429
 @jsrs_afrf 945476727
 @jsrs_gref 1180534892
+@jsrs_pb 3285591870
 @jsrs_reload 1429098683
 @jsrs_soundmod 861133494
 @jsrs_usaf 1180533757
@@ -304,6 +308,7 @@
 @south_asia 1571581816
 @soviet_armed_forces 716518271
 @spectrum_device 2224534021
+@speshal_core 3283642267
 @spyder_addons 579263829
 @sst_opposition 1800899085
 @stalker_cbrn_equipment 1996610193
@@ -333,6 +338,7 @@
 @thirsk_resigned 1558470634
 @tiow2 2426005950
 @tiow_ace_compat 1619900214
+@trencher 3256534418
 @trencher_eden_trench_generation 3256534418
 @tts_beam_laser 2393517275
 @umb_colombia 2266710560
