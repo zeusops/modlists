@@ -12,6 +12,7 @@
 @c2_ai_tool 491016790
 @ch_view_distance 837729515
 @cinematic_lens_flare 878502647
+@crows_zeus_additions 2447965207
 @curatorhud 2480075656
 @dynasound 825181638
 @earplugs 914182380

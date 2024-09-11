@@ -88,6 +88,7 @@
 @cold_war_factions 2966202074
 @cold_war_rhs_retexture 2966202074
 @commander_turret_override 2569680970
+@crows_zeus_additions 2447965207
 @csa38_mod_czechoslovak_army_1938 641305739
 @csa38_mod_marenice 1526918410
 @cup_terrains_core 583496184
@@ -238,6 +239,7 @@
 @niarms_new 2595680138
 @no_grass 1482600949
 @northern_fronts_terrains 1630816076
+@north_takistan 2829330653
 @not_what_they_seem 2187272188
 @novogorsk 2979021411
 @no_weapon_sway 570118882
