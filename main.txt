@@ -6,6 +6,7 @@
 @advanced_sling_loading 615007497
 @ai_cannot_see_through_grass 2946868556
 @aircraft_bounce 1770265310
+@al_salman 2857846877
 @anti_bounce_system 2191542091
 @archipelago 1726184748
 @backpackonchest_redux 2372036642
@@ -38,6 +39,7 @@
 @interiors_for_cup 1883956552
 @jbad 520618345
 @ladder_tweak_remastered 2969350304
+@lambs_danger 1858075458
 @lambs_suppression 1808238502
 @leshens_bandanas 2349648889
 @mrb_voicestop 876991445
@@ -47,6 +49,7 @@
 @project_blufor 1638480581
 @project_true_viking 3092130870
 @prone_launcher_resigned 1883363219
+@ravage 1376636636
 @rhsafrf 843425103
 @rhsgref 843593391
 @rhssaf 843632231
