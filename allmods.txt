@@ -22,6 +22,7 @@
 @ace_interaction_menu_enhanced 2132195038
 @ace_menu_expansion 1376867375
 @ace-morphine-patch 1960207062
+@ace_no_medical 3053169823
 @ace_vehicle_medical 1911374016
 @achilles 723217262
 @acoustic_guitar_mod 1378775292
