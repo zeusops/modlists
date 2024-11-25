@@ -309,6 +309,7 @@
 @simple_suppress 2461607508
 @slaughter_assets 448333775
 @snowmobile 2329040153
+@sog_nickel_steel 3083451905
 @south_asia 1571581816
 @soviet_armed_forces 716518271
 @spectrum_device 2224534021
