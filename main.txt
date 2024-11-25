@@ -4,11 +4,8 @@
 @a3_thermal_improvement 2041057379
 @ace 463939057
 @advanced_sling_loading 615007497
-@ai_cannot_see_through_grass 2946868556
 @aircraft_bounce 1770265310
-@al_salman 2857846877
 @anti_bounce_system 2191542091
-@archipelago 1726184748
 @backpackonchest_redux 2372036642
 @bettir 2260572637
 @bibos_european_insignia_pack 654816931
@@ -35,6 +32,7 @@
 @global_ops_terrains 2917444360
 @grad_trenches 1224892496
 @green_sea_passports 3147212715
+@hide_among_the_grass 3346427969
 @ifx_ace3_window_break 2763469189
 @interiors_for_cup 1883956552
 @jbad 520618345
@@ -43,8 +41,8 @@
 @lambs_suppression 1808238502
 @leshens_bandanas 2349648889
 @mrb_voicestop 876991445
+@mull_of_kintyre 1982652717
 @niarms_new 2595680138
-@north_takistan 2829330653
 @ot_expansion_eden 1923321700
 @project_blufor 1638480581
 @project_true_viking 3092130870
@@ -60,6 +58,7 @@
 @simple_maptools 2013446344
 @spectrum_device 2224534021
 @speshal_core 3283642267
+@suursaari 1680294609
 @tcgm_substitute_underwear 2620183081
 @terrain_lib 2966168738
 @tfarbeta 894678801
@@ -70,7 +69,6 @@
 @usp_gear_core 2044374502
 @usp_gear_nvg 2049719091
 @vet_unflipping 1703187116
-@virolahti_vt7 1926513010
 @wbk_immersive_animations 3165450999
 @werthles_hc 510031102
 @zeus_additions 2387297579

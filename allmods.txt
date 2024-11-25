@@ -164,6 +164,7 @@
 @hafm_navy 1118982882
 @hafm_submarines 1362114638
 @hamf_helicopters 909320014
+@hide_among_the_grass 3346427969
 @hmds_mod 312724602
 @huey_pack 2345068704
 @ifa3_ace_compat 773759919
