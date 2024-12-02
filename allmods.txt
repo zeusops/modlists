@@ -173,6 +173,8 @@
 @ifa3_liberation 950999958
 @ifa3_lite 878977835
 @ifx_ace3_window_break 2763469189
+@immerse 825172265
+@immersion_cigs 753946944
 @imperial_conquest_40k_ace_compat 2332260711
 @imperial_conquest_warhammer_40k 2161719492
 @improved_melee_system 2291129343
@@ -208,6 +210,7 @@
 @laghisola 2175069333
 @lambs_danger 1858075458
 @lambs_suppression 1808238502
+@lang_dan 2843029228
 @legion_armory 1660210110
 @legion_base_stable 2162749089
 @legion_base_tfar_compat 1969012355
@@ -225,6 +228,7 @@
 @max_alien 1450865805
 @max_terminator 1453541574
 @mbg_buildings 962932583
+@melee_rewrite 3283652320
 @milsim_hud 2998946250
 @mrb_air_visibility 929396506
 @mrb_vehicle_visibility 930903722
@@ -256,6 +260,7 @@
 #@optreplus 1763651451
 @ot_expansion_eden 1923321700
 @overthrow 774201744
+@paid_in_blood 2841105162
 @panoramic_night_vision 313041182
 @project_blufor 1638480581
 @project_infinite 807038742
@@ -352,6 +357,7 @@
 @usaf_ac130 2226368165
 @usaf_main 2397360831
 @usaf_utility 2397376046
+@us_cia_embassy_staff_vietnam_war 3024074983
 @us_gear_units 1496363537
 @us_general_equipment_and_accessories 1399447232
 @usp_gear_core 2044374502
